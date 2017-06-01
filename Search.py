@@ -24,3 +24,4 @@ def dfs(graph,vertex):
 def addVertex(c):
     print (c)
     return 0
+
