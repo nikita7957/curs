@@ -62,4 +62,5 @@ def test_docs():
 
 def test_license():
     assert open('LICENSE') != None
+    
 
